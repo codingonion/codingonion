@@ -2,7 +2,7 @@
 - ### Languages: [Rust](https://www.rust-lang.org/), [C++](https://isocpp.org/), [CUDA](https://docs.nvidia.com/cuda/index.html), [Python](https://www.python.org/), [TypeScript](https://www.typescriptlang.org/), [Zig](https://ziglang.org/).
 - ### Frameworks: [Candle](https://github.com/huggingface/candle), [PyTorch](https://github.com/pytorch/pytorch), [TensorRT](https://github.com/NVIDIA/TensorRT), [LangChain](https://github.com/langchain-ai/langchain), [Dify](https://github.com/langgenius/dify).
 
-| <a href="https://github.com/codingonion"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codingonion&show_icons=true&include_all_commits=true&theme=buefy" alt="codingonion's github stats" /></a> | <a href="https://github.com/codingonion"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingonion&layout=compact&theme=buefy&hide=html,css,javascript,shell,dockerfile,cmake" /></a> |
+| <a href="https://github.com/codingonion"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codingonion&show_icons=true&include_all_commits=true&theme=buefy" alt="codingonion's github stats" /></a> | <a href="https://github.com/codingonion"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingonion&layout=compact&theme=buefy&hide=html,css,javascript,shell,dockerfile,cmake,python" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
